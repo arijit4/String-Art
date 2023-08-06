@@ -7,6 +7,9 @@ This project is made to produce high resolution [`String-Art`](https://en.wikipe
 4. Run the code and wait for it to generate the string art image.
 5. Enjoy!
 
+# Sample
+![Sample image]("https://github.com/arijit4/String-Art/blob/master/String_Art_4_Higher/exported/Me-String_Art_SL-PI.jpg?raw=true")
+
 # File descriptions
 - `exported` : Stores every generated images in the end of each generation.
 - `Nail.pde` : Stores the properties of each nails on the board.
