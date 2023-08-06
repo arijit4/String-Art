@@ -8,7 +8,7 @@ This project is made to produce high resolution [`String-Art`](https://en.wikipe
 5. Enjoy!
 
 # Sample
-![Sample image]("https://github.com/arijit4/String-Art/blob/master/String_Art_4_Higher/exported/Me-String_Art_SL-PI.jpg?raw=true")
+![Sample image](/String_Art_4_Higher/exported/blurred-String_Art-252879.64.jpg)
 
 # File descriptions
 - `exported` : Stores every generated images in the end of each generation.
